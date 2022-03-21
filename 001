@@ -1,0 +1,5 @@
+cd Desktop/web-projects/first_site
+git init
+git remote add origin https://github.com/drdvl98/drdvl98.github.io.git
+git add --all
+git commit -m 'adding my files to my repository'
